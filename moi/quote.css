@@ -1,0 +1,19 @@
+ body {
+      font-family: 'Cormorant Garamond', serif;
+      background: linear-gradient(to right top, #fff8f0, #fce1f2, #e0d4f7);
+      color: #3e2c41;
+    }
+    #box {
+      font-family: 'Great Vibes', cursive;
+      color: #9d4edd;
+    }
+    #quote {
+      color: #4a3f55;
+    }
+    #author {
+      color: #7c4dff;
+    }
+    #favorites-section h2 {
+      font-family: 'Cormorant Garamond', serif;
+      color: #6c3483;
+    }
